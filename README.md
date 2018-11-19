@@ -1,5 +1,6 @@
 # UAV project
-This is author's capstone project
+This is my capstone project of Carleton University Electrical department between year of 2017 and 2018.
+![alt text](https://github.com/Buhnahnaah/UAV-Project/blob/master/Quadcopter%20pic.JPG)
 
 -----
 [Personal Website](https://www.yihanzhu.com)
@@ -20,4 +21,28 @@ Firstly, we need to consider the components that required to complete a drone:
 9. Radio controller
 10. Wires
 
+(Be ware that DON'T put propellers on if you are not sure what are you doing !!!)
 
+-----
+
+### Components Selection
+#### Frame
+(Detail will be updated soon)
+#### Propellers
+(Detail will be updated soon)
+#### DC motors and ESCs
+(Detail will be updated soon)
+#### Battery
+(Detail will be updated soon)
+#### Sensors
+(Detail will be updated soon)
+#### Radio Controller
+(Detail will be updated soon)
+
+-----
+### Flight Controller Embedded
+(Detail will be updated soon)
+
+-----
+### Helpful Suggestion
+(Detail will be updated soon)
