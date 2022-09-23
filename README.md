@@ -3,9 +3,6 @@ This is my capstone project of Carleton University Electrical department between
 ![alt text](https://github.com/Buhnahnaah/UAV-Project/blob/master/Quadcopter%20pic.JPG)
 
 -----
-[Personal Website](https://www.yihanzhu.com)
-#### This website introduces myself and the project I done or I am doing so far
------
 
 ## Instructions for building a quadcopter
 
